@@ -7,19 +7,33 @@ import os
 # --- НАСТРОЙКИ ---
 FEED_URL = "https://87aced7a-b14f-4cd8-9061-7f500aeeaa32.selstorage.ru/2664700-69bfbefdb664f0-41863077.yml"
 OUTPUT_FILE = "aqvilegia_optimized.xml"
-UTM_TAGS = "utm_source=yandex&utm_medium=cpc&utm_campaign=smart_banners"
 
-def clean_html(raw_html):
-    """Удаляет HTML-теги и расшифровывает спецсимволы"""
+def clean_html_and_get_first_sentence(raw_html):
+    """Удаляет HTML-теги и забирает только первое предложение"""
     if not raw_html: 
         return ""
+    
+    # 1. Очищаем от HTML
     cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, '', raw_html)
     cleantext = html.unescape(cleantext).strip()
-    return cleantext
+    
+    # 2. Опционально: чистим эмодзи, если они мешают (оставляем только текст)
+    # Если эмодзи нужны - эту строку можно закомментировать
+    cleantext = re.sub(r'[^\w\s.,!?-]', '', cleantext)
+
+    # 3. Вытаскиваем первое предложение (до первой точки, ! или ?)
+    match = re.match(r'(.*?[.!?])(?:\s|$)', cleantext)
+    if match:
+        first_sentence = match.group(1).strip()
+    else:
+        # Если знаков препинания нет вообще, берем текст целиком
+        first_sentence = cleantext.strip()
+        
+    return first_sentence
 
 def indent(elem, level=0):
-    """Функция для красивого форматирования XML (отступы и переносы строк)"""
+    """Функция для красивого форматирования XML (отступы и переносы)"""
     i = "\n" + level * "  "
     if len(elem):
         if not elem.text or not elem.text.strip():
@@ -51,26 +65,21 @@ def process_feed():
     offers = shop.find('offers')
     
     for offer in offers.findall('offer'):
-        # --- 1. Безопасная обработка URL и UTM ---
+        
+        # --- 1. URL (Без UTM и без CDATA) ---
         url_el = offer.find('url')
         base_url_for_col = ""
         if url_el is not None and url_el.text:
             original_url = url_el.text.strip()
             base_url_for_col = original_url
+            # Оставляем чистую ссылку. ElementTree сам превратит & в &amp; при сохранении
+            url_el.text = original_url
             
-            # Аккуратно приклеиваем UTM
-            if '?' in original_url:
-                new_url = f"{original_url}&{UTM_TAGS}"
-            else:
-                new_url = f"{original_url}?{UTM_TAGS}"
-                
-            url_el.text = f"__CDATA_START__{new_url}__CDATA_END__"
-            
-        # --- 2. Чистка Description ---
+        # --- 2. Description (Первое предложение + CDATA) ---
         desc_el = offer.find('description')
         if desc_el is not None:
-            cleaned_text = clean_html(desc_el.text)
-            desc_el.text = f"__CDATA_START__{cleaned_text}__CDATA_END__"
+            first_sentence = clean_html_and_get_first_sentence(desc_el.text)
+            desc_el.text = f"__CDATA_START__{first_sentence}__CDATA_END__"
             
         # --- 3. Добавление Sales Notes ---
         sales_notes = offer.find('sales_notes')
@@ -78,15 +87,17 @@ def process_feed():
             sales_notes = ET.SubElement(offer, 'sales_notes')
         sales_notes.text = "Бесплатные консультации флористов. Доставка 24/7"
         
-        # --- 4. Защита картинок ---
+        # --- 4. Картинки (Без CDATA) ---
         for pic_el in offer.findall('picture'):
-            if pic_el.text and not pic_el.text.startswith('__CDATA'):
-                pic_el.text = f"__CDATA_START__{pic_el.text}__CDATA_END__"
+            if pic_el.text:
+                # Очищаем от возможных старых заглушек, просто сохраняем чистую ссылку
+                clean_pic = pic_el.text.replace('__CDATA_START__', '').replace('__CDATA_END__', '')
+                pic_el.text = clean_pic
 
         # --- 5. Логика Категорий и Коллекций ---
         cat_elements = offer.findall('categoryId')
         if len(cat_elements) > 0:
-            # Оставляем только первый тег как главную физическую категорию
+            # Оставляем только первую (главную) категорию
             for extra_cat in cat_elements[1:]:
                 cat_id = extra_cat.text
                 offer.remove(extra_cat)
@@ -97,7 +108,7 @@ def process_feed():
                 
                 if col_id not in collections_data:
                     pic = offer.find('picture')
-                    pic_url = pic.text.replace('__CDATA_START__', '').replace('__CDATA_END__', '') if pic is not None else ""
+                    pic_url = pic.text if pic is not None else ""
                     
                     collections_data[col_id] = {
                         "name": categories_dict.get(cat_id, "Коллекция"),
@@ -111,9 +122,11 @@ def process_feed():
         for col_id, data in collections_data.items():
             c_el = ET.SubElement(collections_el, 'collection', id=col_id)
             ET.SubElement(c_el, 'name').text = data['name']
-            ET.SubElement(c_el, 'url').text = f"__CDATA_START__{data['url']}__CDATA_END__"
+            
+            # В коллекциях URL и Картинка тоже идут без CDATA
+            ET.SubElement(c_el, 'url').text = data['url']
             if data['picture']:
-                ET.SubElement(c_el, 'picture').text = f"__CDATA_START__{data['picture']}__CDATA_END__"
+                ET.SubElement(c_el, 'picture').text = data['picture']
 
     print("💾 Форматируем и сохраняем фид...")
     
@@ -122,10 +135,10 @@ def process_feed():
     
     rough_string = ET.tostring(root, encoding='utf-8').decode('utf-8')
     
-    # Жестко фиксим CDATA и декодируем амперсанды внутри них
+    # Жестко фиксим CDATA (только те, что мы добавили в description)
     def unescape_cdata(match):
         text = match.group(1)
-        # Возвращаем нормальные амперсанды для UTM-меток
+        # Внутри CDATA амперсанды не должны быть заэкранированы
         text = text.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
         return f"<![CDATA[{text}]]>"
 
