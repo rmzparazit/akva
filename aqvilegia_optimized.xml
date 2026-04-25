@@ -172,10 +172,7 @@
 <oldprice>13290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/b/e/d/bed30b156d7f192543e0476c332d2211.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/3/5/8/358ca65604b82485d02df621080e38fe.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/2/f/a/2fa0b619663c250535ade9ad44e6a85a.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/9/1/f/91f904e43da477be858b63586c2031d3.jpeg</picture>
+<picture>https://m-files.cdn1.cc/lpfile/1/6/2/162c75245e031a8a8c0d3c2a740f60d9.jpeg</picture>
 <param name="Цвет">Оранжевый</param>
 <param name="Высота букета">50 см</param>
 <param name="Высота букета">60 см</param>
@@ -846,17 +843,17 @@
 <picture>https://m-files.cdn1.cc/lpfile/c/b/5/cb58bcbb5cd3bb0827553a1f2d993359.jpeg</picture>
 </collection>
 <collection id="col_31rose">
-<name>Букеты из 31 роз</name>
+<name>Букеты из 31 розы</name>
 <url>https://aqvilegia.ru/31rose</url>
 <picture>https://m-files.cdn1.cc/lpfile/9/d/6/9d68b82ee973e5ea57408aa8b9ace0dd.jpeg</picture>
 </collection>
 <collection id="col_51rose">
-<name>Букеты из 51 роз</name>
+<name>Букеты из 51 розы</name>
 <url>https://aqvilegia.ru/51rose</url>
 <picture>https://m-files.cdn1.cc/lpfile/5/0/2/5023b37b0d6599f1c05c7080a2c64548.jpeg</picture>
 </collection>
 <collection id="col_101rose">
-<name>Букеты из 101 роз</name>
+<name>Букеты из 101 розы</name>
 <url>https://aqvilegia.ru/101rose</url>
 <picture>https://m-files.cdn1.cc/lpfile/f/f/6/ff6ff846092d00988ea11f02f71afa69.jpeg</picture>
 </collection>
