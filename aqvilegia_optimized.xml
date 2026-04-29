@@ -129,8 +129,8 @@
 <offer id="101mixkbr" available="true">
 <name>Букет из 101 микс красной и белой розы</name>
 <url>https://aqvilegia.ru/101mixkbr</url>
-<price>12590</price>
-<oldprice>12890</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/b/3/4/b3486d44aa5baafbb1f5bdb9398579e2.jpeg</picture>
@@ -148,8 +148,8 @@
 <offer id="101mr" available="true">
 <name>Букет из 101 малиновой розы</name>
 <url>https://aqvilegia.ru/101mr</url>
-<price>12990</price>
-<oldprice>13290</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/3/f/f/3ff210773b3f58c8e157363fbe715c9f.jpeg</picture>
@@ -167,8 +167,8 @@
 <offer id="101orr" available="true">
 <name>Букет из 101 оранжевой розы</name>
 <url>https://aqvilegia.ru/101orr</url>
-<price>12990</price>
-<oldprice>13290</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/1/6/2/162c75245e031a8a8c0d3c2a740f60d9.jpeg</picture>
@@ -184,8 +184,8 @@
 <offer id="101zr" available="true">
 <name>Букет из 101 желтой розы</name>
 <url>https://aqvilegia.ru/101zr</url>
-<price>12990</price>
-<oldprice>13290</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/5/c/0/5c08eb7db63091062ab2af7a3f6e9dbf.jpeg</picture>
@@ -204,8 +204,8 @@
 <offer id="101rj" available="true">
 <name>Букет из 101 розы Джумелия</name>
 <url>https://aqvilegia.ru/101rj</url>
-<price>12990</price>
-<oldprice>13290</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/a/a/4/aa4a8e90aca82c933fcb5a06fbace348.jpeg</picture>
@@ -221,8 +221,8 @@
 <offer id="101or" available="true">
 <name>Букет из 101 оранжевой розы</name>
 <url>https://aqvilegia.ru/101or</url>
-<price>12990</price>
-<oldprice>13290</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/b/e/d/bed30b156d7f192543e0476c332d2211.jpeg</picture>
@@ -238,8 +238,8 @@
 <offer id="101srr" available="true">
 <name>Букет из 101 светло-розовой розы</name>
 <url>https://aqvilegia.ru/101srr</url>
-<price>10390</price>
-<oldprice>10690</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/0/6/4/064d9c213fea7d378483698c3c20737f.jpeg</picture>
@@ -259,8 +259,8 @@
 <offer id="101br" available="true">
 <name>Букет из 101 белой розы</name>
 <url>https://aqvilegia.ru/101br</url>
-<price>10390</price>
-<oldprice>10690</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/9/b/a/9baf94050103d88cb8acc5545d0b7e01.jpeg</picture>
@@ -278,8 +278,8 @@
 <offer id="101kr" available="true">
 <name>Букет из 101 красной розы</name>
 <url>https://aqvilegia.ru/101kr</url>
-<price>10390</price>
-<oldprice>10690</oldprice>
+<price>8990</price>
+<oldprice>9290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/7/5/5/755feab9915289103e3cc9a7b617a062.jpeg</picture>
@@ -609,7 +609,7 @@
 <collectionId>col_31rose</collectionId>
 </offer>
 <offer id="25krp" available="true">
-<name>Букет из 25 красных роз премиум 80 см —</name>
+<name>Букет из 25 красных роз премиум 80 см</name>
 <url>https://aqvilegia.ru/25krp</url>
 <price>9990</price>
 <oldprice>10290</oldprice>
@@ -622,7 +622,7 @@
 <picture>https://m-files.cdn1.cc/lpfile/c/4/2/c4212698651ecf5e4cf0b82cc3f3d735.jpeg</picture>
 <param name="Цвет">Красный</param>
 <param name="Цвет">Кремовый</param>
-<description><![CDATA[Роскошный красный-кремовый букет из 25 красных роз премиум 80 см —. Собран профессиональными флористами.]]></description>
+<description><![CDATA[Роскошный красный-кремовый букет из 25 красных роз премиум 80 см. Собран профессиональными флористами.]]></description>
 <sales_notes>Бесплатные консультации флористов. Доставка 24/7</sales_notes>
 </offer>
 <offer id="21kremr" available="true">
