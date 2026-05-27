@@ -276,8 +276,8 @@
 <offer id="101kr" available="true">
 <name>Букет из 101 красной розы</name>
 <url>https://aqvilegia.ru/101kr</url>
-<price>8990</price>
-<oldprice>9290</oldprice>
+<price>5990</price>
+<oldprice>6290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/7/5/5/755feab9915289103e3cc9a7b617a062.jpeg</picture>
@@ -431,8 +431,8 @@
 <offer id="51mixkbr" available="true">
 <name>Букет из 51 микс красной и белой розы</name>
 <url>https://aqvilegia.ru/51mixkbr</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3490</price>
+<oldprice>3790</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/2/c/0/2c0999da4adee64c6d0a25c304ceba9c.jpeg</picture>
@@ -449,8 +449,8 @@
 <offer id="51kr" available="true">
 <name>Букет из 51 красной розы</name>
 <url>https://aqvilegia.ru/51kr</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3490</price>
+<oldprice>3790</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
@@ -588,8 +588,8 @@
 <offer id="31kr" available="true">
 <name>Букет из 31 красной розы</name>
 <url>https://aqvilegia.ru/31kr</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>2590</price>
+<oldprice>2890</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/e/c/1/ec1303fae0e4cc8da9a68e166f126aa8.jpeg</picture>
@@ -752,8 +752,8 @@
 <offer id="21kr" available="true">
 <name>Букет из 21 красной розы</name>
 <url>https://aqvilegia.ru/21kr</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
+<price>1990</price>
+<oldprice>2290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/a/e/f/aefbe013f5f8f0731b74f531508a5d31.jpeg</picture>
@@ -805,8 +805,8 @@
 <offer id="11kr" available="true">
 <name>Букет из 11 красных роз</name>
 <url>https://aqvilegia.ru/11kr</url>
-<price>1990</price>
-<oldprice>2290</oldprice>
+<price>990</price>
+<oldprice>1290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/3/b/6/3b6a0fd3046318ec9818b496a1543536.jpeg</picture>
