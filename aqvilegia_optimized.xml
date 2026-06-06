@@ -14,8 +14,8 @@
 <offer id="11br" available="true">
 <name>Букет из 11 белых роз</name>
 <url>https://aqvilegia.ru/11br</url>
-<price>1990</price>
-<oldprice>2290</oldprice>
+<price>1290</price>
+<oldprice>1590</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/f/7/1/f712d72da556edb27d7259c636a44d4b.jpeg</picture>
@@ -31,8 +31,8 @@
 <offer id="49mrp" available="true">
 <name>Букет из 49 роз пинк флойд премиум 80 см</name>
 <url>https://aqvilegia.ru/49mrp</url>
-<price>15990</price>
-<oldprice>16290</oldprice>
+<price>12990</price>
+<oldprice>13290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/8/e/f/8ef5ffc48f365ce1c19ffc1db3b8c572.jpeg</picture>
@@ -47,8 +47,8 @@
 <offer id="25mrp" available="true">
 <name>Букет из 25 роз пинк флойд премиум 80 см</name>
 <url>https://aqvilegia.ru/25mrp</url>
-<price>8990</price>
-<oldprice>9290</oldprice>
+<price>7990</price>
+<oldprice>8290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/5/3/e/53e52b1d98e53de5b91163da94da9778.jpeg</picture>
@@ -63,8 +63,8 @@
 <offer id="49brp" available="true">
 <name>Букет из 49 белых роз премиум 80 см</name>
 <url>https://aqvilegia.ru/49brp</url>
-<price>15990</price>
-<oldprice>16290</oldprice>
+<price>12990</price>
+<oldprice>13290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/4/7/d/47d8690e9ca756efed345aee37a74045.jpeg</picture>
@@ -79,8 +79,8 @@
 <offer id="25brp" available="true">
 <name>Букет из 25 белых роз премиум 80 см</name>
 <url>https://aqvilegia.ru/25brp</url>
-<price>8990</price>
-<oldprice>9290</oldprice>
+<price>7990</price>
+<oldprice>8290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/9/2/a/92a0130bca0c184e671d93de7b894569.jpeg</picture>
@@ -96,8 +96,8 @@
 <offer id="49krp" available="true">
 <name>Букет из 49 красных роз премиум 80 см</name>
 <url>https://aqvilegia.ru/49krp</url>
-<price>15990</price>
-<oldprice>16290</oldprice>
+<price>12990</price>
+<oldprice>13290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/a/8/7/a8703fa77c8cbf9b15dad6d632002ae6.jpeg</picture>
@@ -113,8 +113,8 @@
 <offer id="101kmr" available="true">
 <name>Букет из 101 красной метровой розы</name>
 <url>https://aqvilegia.ru/101kmr</url>
-<price>32000</price>
-<oldprice>32300</oldprice>
+<price>19000</price>
+<oldprice>19300</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/f/f/6/ff6ff846092d00988ea11f02f71afa69.jpeg</picture>
@@ -127,8 +127,8 @@
 <offer id="101mixkbr" available="true">
 <name>Букет из 101 микс красной и белой розы</name>
 <url>https://aqvilegia.ru/101mixkbr</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/b/3/4/b3486d44aa5baafbb1f5bdb9398579e2.jpeg</picture>
@@ -146,8 +146,8 @@
 <offer id="101mr" available="true">
 <name>Букет из 101 малиновой розы</name>
 <url>https://aqvilegia.ru/101mr</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/3/f/f/3ff210773b3f58c8e157363fbe715c9f.jpeg</picture>
@@ -165,8 +165,8 @@
 <offer id="101orr" available="true">
 <name>Букет из 101 оранжевой розы</name>
 <url>https://aqvilegia.ru/101orr</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/1/6/2/162c75245e031a8a8c0d3c2a740f60d9.jpeg</picture>
@@ -182,8 +182,8 @@
 <offer id="101zr" available="true">
 <name>Букет из 101 желтой розы</name>
 <url>https://aqvilegia.ru/101zr</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/5/c/0/5c08eb7db63091062ab2af7a3f6e9dbf.jpeg</picture>
@@ -202,8 +202,8 @@
 <offer id="101rj" available="true">
 <name>Букет из 101 розы Джумелия</name>
 <url>https://aqvilegia.ru/101rj</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/a/a/4/aa4a8e90aca82c933fcb5a06fbace348.jpeg</picture>
@@ -219,8 +219,8 @@
 <offer id="101or" available="true">
 <name>Букет из 101 оранжевой розы</name>
 <url>https://aqvilegia.ru/101or</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/b/e/d/bed30b156d7f192543e0476c332d2211.jpeg</picture>
@@ -236,8 +236,8 @@
 <offer id="101srr" available="true">
 <name>Букет из 101 светло-розовой розы</name>
 <url>https://aqvilegia.ru/101srr</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/0/6/4/064d9c213fea7d378483698c3c20737f.jpeg</picture>
@@ -257,8 +257,8 @@
 <offer id="101br" available="true">
 <name>Букет из 101 белой розы</name>
 <url>https://aqvilegia.ru/101br</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/9/b/a/9baf94050103d88cb8acc5545d0b7e01.jpeg</picture>
@@ -276,8 +276,8 @@
 <offer id="101kr" available="true">
 <name>Букет из 101 красной розы</name>
 <url>https://aqvilegia.ru/101kr</url>
-<price>10990</price>
-<oldprice>11290</oldprice>
+<price>6990</price>
+<oldprice>7290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/7/5/5/755feab9915289103e3cc9a7b617a062.jpeg</picture>
@@ -297,8 +297,8 @@
 <offer id="51br" available="true">
 <name>Букет из 51 белой розы</name>
 <url>https://aqvilegia.ru/51br</url>
-<price>7395</price>
-<oldprice>7695</oldprice>
+<price>7990</price>
+<oldprice>8290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/5/0/2/5023b37b0d6599f1c05c7080a2c64548.jpeg</picture>
@@ -319,8 +319,8 @@
 <offer id="51pionr" available="true">
 <name>Букет из 51 пионовидной розы 60 см</name>
 <url>https://aqvilegia.ru/51pionr</url>
-<price>7290</price>
-<oldprice>7590</oldprice>
+<price>8290</price>
+<oldprice>8590</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/0/a/e/0aeb865219785302c22803cc2b162257.jpeg</picture>
@@ -333,8 +333,8 @@
 <offer id="51kremr" available="true">
 <name>Букет из 51 кремовой розы</name>
 <url>https://aqvilegia.ru/51kremr</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3990</price>
+<oldprice>4290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/5/1/f/51f688519c5adb02ae3d65058cd8ab2e.jpeg</picture>
@@ -350,8 +350,8 @@
 <offer id="51or" available="true">
 <name>Букет из 51 оранжевой розы</name>
 <url>https://aqvilegia.ru/51or</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3990</price>
+<oldprice>4290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/7/5/d/75d3c702e5d4fe117fd0a486b7560bb2.jpeg</picture>
@@ -372,8 +372,8 @@
 <offer id="51mr" available="true">
 <name>Букет из 51 малиновой розы</name>
 <url>https://aqvilegia.ru/51mr</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3990</price>
+<oldprice>4290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/a/e/7/ae7627042b82fe7ebf47a772cffc39ff.jpeg</picture>
@@ -394,8 +394,8 @@
 <offer id="51srr" available="true">
 <name>Букет из 51 светло-розовой розы</name>
 <url>https://aqvilegia.ru/51srr</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3990</price>
+<oldprice>4290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/1/2/4/1240cc06be8b9531178eba3003038bae.jpeg</picture>
@@ -412,8 +412,8 @@
 <offer id="51rj" available="true">
 <name>Букет из 51 розы Джумелия</name>
 <url>https://aqvilegia.ru/51rj</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3990</price>
+<oldprice>4290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/9/5/6/956d8928894d7fd3cc54e38a3e0aa130.jpeg</picture>
@@ -431,8 +431,8 @@
 <offer id="51mixkbr" available="true">
 <name>Букет из 51 микс красной и белой розы</name>
 <url>https://aqvilegia.ru/51mixkbr</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3990</price>
+<oldprice>4290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/2/c/0/2c0999da4adee64c6d0a25c304ceba9c.jpeg</picture>
@@ -449,8 +449,8 @@
 <offer id="51kr" available="true">
 <name>Букет из 51 красной розы</name>
 <url>https://aqvilegia.ru/51kr</url>
-<price>5990</price>
-<oldprice>6290</oldprice>
+<price>3990</price>
+<oldprice>4290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/3/7/f/37f13e534987e51b407338321a6601fc.jpeg</picture>
@@ -467,8 +467,8 @@
 <offer id="31kremr" available="true">
 <name>Букет из 31 кремовой розы</name>
 <url>https://aqvilegia.ru/31kremr</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>2790</price>
+<oldprice>3090</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/9/d/6/9d68b82ee973e5ea57408aa8b9ace0dd.jpeg</picture>
@@ -488,8 +488,8 @@
 <offer id="31srr" available="true">
 <name>Букет из 31 светло-розовых роз</name>
 <url>https://aqvilegia.ru/31srr</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>2790</price>
+<oldprice>3090</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/d/f/5/df5d7364074f1c810a54cefcfc6e7b93.jpeg</picture>
@@ -511,8 +511,8 @@
 <offer id="31or" available="true">
 <name>Букет из 31 оранжевой розы</name>
 <url>https://aqvilegia.ru/31or</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>2790</price>
+<oldprice>3090</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/0/8/2/0823f2750a700be44c3babb62e04dcbd.jpeg</picture>
@@ -531,8 +531,8 @@
 <offer id="31mr" available="true">
 <name>Букет из 31 малиновой розы</name>
 <url>https://aqvilegia.ru/31mr</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>2790</price>
+<oldprice>3090</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/d/7/c/d7cf7ddc1cc1c925c2189c0890c5523a.jpeg</picture>
@@ -551,8 +551,8 @@
 <offer id="31br" available="true">
 <name>Букет из 31 белой розы</name>
 <url>https://aqvilegia.ru/31br</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>2790</price>
+<oldprice>3090</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/e/6/9/e69a93101e37447f2ffe64cc68e22c97.jpeg</picture>
@@ -572,8 +572,8 @@
 <offer id="31nrr" available="true">
 <name>Букет из 31 нежно-розовых роз</name>
 <url>https://aqvilegia.ru/31nrr</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>2790</price>
+<oldprice>3090</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/3/6/a/36ada4fd436c176fdcecfea9c820c26f.jpeg</picture>
@@ -588,8 +588,8 @@
 <offer id="31kr" available="true">
 <name>Букет из 31 красной розы</name>
 <url>https://aqvilegia.ru/31kr</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>2790</price>
+<oldprice>3090</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/e/c/1/ec1303fae0e4cc8da9a68e166f126aa8.jpeg</picture>
@@ -609,8 +609,8 @@
 <offer id="25krp" available="true">
 <name>Букет из 25 красных роз премиум 80 см</name>
 <url>https://aqvilegia.ru/25krp</url>
-<price>8990</price>
-<oldprice>9290</oldprice>
+<price>7990</price>
+<oldprice>8290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/f/c/2/fc208c1f404e2d471ed6107357359dce.jpeg</picture>
@@ -625,8 +625,8 @@
 <offer id="21kremr" available="true">
 <name>Букет из 21 кремовой розы</name>
 <url>https://aqvilegia.ru/21kremr</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
+<price>4210</price>
+<oldprice>4510</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/c/b/5/cb58bcbb5cd3bb0827553a1f2d993359.jpeg</picture>
@@ -648,8 +648,8 @@
 <offer id="21srr" available="true">
 <name>Букет из 21 светло-розовой розы</name>
 <url>https://aqvilegia.ru/21srr</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
+<price>1990</price>
+<oldprice>2290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/5/3/d/53d3e880a96c32da70cc34b5a1a61d7c.jpeg</picture>
@@ -669,8 +669,8 @@
 <offer id="21or" available="true">
 <name>Букет из 21 оранжевой розы</name>
 <url>https://aqvilegia.ru/21or</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
+<price>1990</price>
+<oldprice>2290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/8/7/1/87168923710c1778ece97bde421a9947.jpeg</picture>
@@ -691,8 +691,8 @@
 <offer id="21mr" available="true">
 <name>Букет из 21 малиновой розы</name>
 <url>https://aqvilegia.ru/21mr</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
+<price>1990</price>
+<oldprice>2290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/1/4/8/148f6f2e82c71460665f93d7a245d83e.jpeg</picture>
@@ -712,8 +712,8 @@
 <offer id="21nrr" available="true">
 <name>Букет из 21 нежно-розовой розы</name>
 <url>https://aqvilegia.ru/21nrr</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
+<price>1990</price>
+<oldprice>2290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/8/9/5/895a5a4ba2654833ff003165886d27d8.jpeg</picture>
@@ -730,8 +730,8 @@
 <offer id="21br" available="true">
 <name>Букет из 21 белой розы</name>
 <url>https://aqvilegia.ru/21br</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
+<price>1990</price>
+<oldprice>2290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/5/9/f/59f0405aa76131e819467e29a2566dd5.jpeg</picture>
@@ -752,8 +752,8 @@
 <offer id="21kr" available="true">
 <name>Букет из 21 красной розы</name>
 <url>https://aqvilegia.ru/21kr</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
+<price>1990</price>
+<oldprice>2290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/a/e/f/aefbe013f5f8f0731b74f531508a5d31.jpeg</picture>
@@ -773,8 +773,8 @@
 <offer id="11nrr" available="true">
 <name>Букет из 11 нежно-розовых роз</name>
 <url>https://aqvilegia.ru/11nrr</url>
-<price>1990</price>
-<oldprice>2290</oldprice>
+<price>1290</price>
+<oldprice>1590</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/5/8/8/5884e3bf9b7b0c54ad5b3016724d4ace.jpeg</picture>
@@ -789,8 +789,8 @@
 <offer id="11ri" available="true">
 <name>Букет из 11 роз Испания</name>
 <url>https://aqvilegia.ru/11ri</url>
-<price>1990</price>
-<oldprice>2290</oldprice>
+<price>1290</price>
+<oldprice>1590</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/c/0/e/c0e6fc6764bb22b87b363fb0768686b8.jpeg</picture>
@@ -805,8 +805,8 @@
 <offer id="11kr" available="true">
 <name>Букет из 11 красных роз</name>
 <url>https://aqvilegia.ru/11kr</url>
-<price>1990</price>
-<oldprice>2290</oldprice>
+<price>1290</price>
+<oldprice>1590</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
 <picture>https://m-files.cdn1.cc/lpfile/3/b/6/3b6a0fd3046318ec9818b496a1543536.jpeg</picture>
