@@ -372,21 +372,10 @@
 <offer id="51mr" available="true">
 <name>Букет из 51 малиновой розы</name>
 <url>https://aqvilegia.ru/51mr</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
+<price>0</price>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/a/e/7/ae7627042b82fe7ebf47a772cffc39ff.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/a/f/e/afe6737033cdc55396016bcad6ab6705.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/7/c/0/7c0ddc896f0bb1ad0fe4cd87ece4843c.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/b/7/5/b752112de4132f6f50bf12522c979742.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/f/9/b/f9b5df98501088250b920a3c0b987c44.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/9/d/e/9de20509d1feb90065ad1b076a2443ef.jpeg</picture>
 <param name="Цвет">Малиновый</param>
-<param name="Высота букета">50 см</param>
-<param name="Высота букета">60 см</param>
-<param name="Высота букета">70 см</param>
-<param name="Высота букета">80 см</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
 <collectionId>col_51rose</collectionId>
@@ -976,7 +965,6 @@
 <url>https://aqvilegia.ru/51mr</url>
 <name>Букет из 51 малиновой розы</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/a/e/7/ae7627042b82fe7ebf47a772cffc39ff.jpeg</picture>
 </collection>
 <collection id="51srr">
 <url>https://aqvilegia.ru/51srr</url>
