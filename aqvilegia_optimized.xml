@@ -79,16 +79,9 @@
 <offer id="25brp" available="true">
 <name>Букет из 25 белых роз премиум 80 см</name>
 <url>https://aqvilegia.ru/25brp</url>
-<price>7990</price>
-<oldprice>8290</oldprice>
+<price>0</price>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/9/2/a/92a0130bca0c184e671d93de7b894569.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/8/8/9/889c8aee5f8293360a98975560894aef.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/2/4/d/24d91a0bf81136204782ab27d4e97235.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/0/6/e/06edd915916ca6a424553bbc86928b2f.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/2/a/9/2a95bc3aaa5f96a136d1e8fa3c12ff68.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/9/b/1/9b1540ebf7b0efb66835446ed4c65450.jpeg</picture>
 <param name="Цвет">Белый</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
@@ -880,7 +873,6 @@
 <url>https://aqvilegia.ru/25brp</url>
 <name>Букет из 25 белых роз премиум 80 см</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/9/2/a/92a0130bca0c184e671d93de7b894569.jpeg</picture>
 </collection>
 <collection id="49krp">
 <url>https://aqvilegia.ru/49krp</url>
