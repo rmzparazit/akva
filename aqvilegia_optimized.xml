@@ -11,55 +11,6 @@
 <category id="1">Букеты</category>
 </categories>
 <offers>
-<offer id="11br" available="true">
-<name>Букет из 11 белых роз</name>
-<url>https://aqvilegia.ru/11br</url>
-<price>1690</price>
-<oldprice>1990</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/f/7/1/f712d72da556edb27d7259c636a44d4b.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/b/7/d/b7dd1488390d542f74265364743322c8.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/0/7/c/07c3e4d5adb9ce845f4000d374c3395b.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/2/c/3/2c3cf82b4550439c59bce85fab89cf61.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/3/4/b/34bd2978f84a93b77274ce9bf014f501.jpeg</picture>
-<param name="Цвет">Белый</param>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_11rose</collectionId>
-</offer>
-<offer id="49mrp" available="true">
-<name>Букет из 49 роз пинк флойд премиум 80 см</name>
-<url>https://aqvilegia.ru/49mrp</url>
-<price>9990</price>
-<oldprice>10290</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/8/e/f/8ef5ffc48f365ce1c19ffc1db3b8c572.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/6/9/e/69e80636ad0e78bf791c9c43b9d369ca.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/8/6/7/8679ba3fb77064da67bff9c8c253248c.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/0/4/f/04f15cadfaee355c6745732e1ad81766.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/8/e/0/8e06e5b60c7c56b48c9d7a47e06d44ec.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/3/f/8/3f8db3db63a34b0c421a0b791c6138e0.jpeg</picture>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-</offer>
-<offer id="25mrp" available="true">
-<name>Букет из 25 роз пинк флойд премиум 80 см</name>
-<url>https://aqvilegia.ru/25mrp</url>
-<price>5490</price>
-<oldprice>5790</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/5/3/e/53e52b1d98e53de5b91163da94da9778.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/e/7/0/e70fd1d9d016966b2ec7d7a5d44025d8.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/9/1/8/918472232c0db287f75ea17fad4a2ae0.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/9/7/f/97fb1ae9933b4dfcfbec2e5c79605915.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/8/0/f/80f29dc427834508c678c0900b1cba06.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/a/7/0/a70ed3da7fcef009d0d7d7cae3bb4294.jpeg</picture>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-</offer>
 <offer id="49brp" available="true">
 <name>Букет из 49 белых роз премиум 80 см</name>
 <url>https://aqvilegia.ru/49brp</url>
@@ -120,25 +71,6 @@
 <picture>https://m-files.cdn1.cc/lpfile/f/f/6/ff6ff846092d00988ea11f02f71afa69.jpeg</picture>
 <picture>https://m-files.cdn1.cc/lpfile/6/1/7/6170bae5473efaafc62254a287d1eb86.jpeg</picture>
 <param name="Цвет">Красный</param>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_101rose</collectionId>
-</offer>
-<offer id="101mixkbr" available="true">
-<name>Букет из 101 микс красной и белой розы</name>
-<url>https://aqvilegia.ru/101mixkbr</url>
-<price>8990</price>
-<oldprice>9290</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/b/3/4/b3486d44aa5baafbb1f5bdb9398579e2.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/c/b/3/cb34ad88f8c9902a74b659522ef7f45d.jpeg</picture>
-<param name="Цвет">Белый</param>
-<param name="Цвет">Красный</param>
-<param name="Высота букета">50 см</param>
-<param name="Высота букета">60 см</param>
-<param name="Высота букета">70 см</param>
-<param name="Высота букета">80 см</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
 <collectionId>col_101rose</collectionId>
@@ -207,17 +139,6 @@
 <param name="Высота букета">60 см</param>
 <param name="Высота букета">70 см</param>
 <param name="Высота букета">80 см</param>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_101rose</collectionId>
-</offer>
-<offer id="101or" available="true">
-<name>Букет из 101 оранжевой розы</name>
-<url>https://aqvilegia.ru/101or</url>
-<price>0</price>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<param name="Цвет">Оранжевый</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
 <collectionId>col_101rose</collectionId>
@@ -302,21 +223,6 @@
 <param name="Высота букета">80 см</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
-</offer>
-<offer id="51pionr" available="true">
-<name>Букет из 51 пионовидной розы 60 см</name>
-<url>https://aqvilegia.ru/51pionr</url>
-<price>9290</price>
-<oldprice>9590</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/0/a/e/0aeb865219785302c22803cc2b162257.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/3/7/6/376c18ba7c50767f7928488e25f90a80.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/4/c/2/4c27d6bc242d837059d1330f446c7272.jpeg</picture>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
 </offer>
 <offer id="51kremr" available="true">
 <name>Букет из 51 кремовой розы</name>
@@ -333,7 +239,6 @@
 <param name="Высота букета">80 см</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
 </offer>
 <offer id="51or" available="true">
 <name>Букет из 51 оранжевой розы</name>
@@ -344,7 +249,6 @@
 <param name="Цвет">Оранжевый</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
 </offer>
 <offer id="51mr" available="true">
 <name>Букет из 51 малиновой розы</name>
@@ -366,7 +270,6 @@
 <param name="Высота букета">80 см</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
 </offer>
 <offer id="51srr" available="true">
 <name>Букет из 51 светло-розовой розы</name>
@@ -384,46 +287,6 @@
 <param name="Высота букета">80 см</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
-</offer>
-<offer id="51rj" available="true">
-<name>Букет из 51 розы Джумелия</name>
-<url>https://aqvilegia.ru/51rj</url>
-<price>4990</price>
-<oldprice>5290</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/9/5/6/956d8928894d7fd3cc54e38a3e0aa130.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/8/c/7/8c7e2f6d1dd61063a0839651eabeaa9a.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/d/2/c/d2cd8e60e1dec5d14f15dc2011a4d8c5.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/b/d/1/bd15ef5dc68ee5c94ad2e84ece2fc336.jpeg</picture>
-<param name="Высота букета">50 см</param>
-<param name="Высота букета">60 см</param>
-<param name="Высота букета">70 см</param>
-<param name="Высота букета">80 см</param>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
-</offer>
-<offer id="51mixkbr" available="true">
-<name>Букет из 51 микс красной и белой розы</name>
-<url>https://aqvilegia.ru/51mixkbr</url>
-<price>4990</price>
-<oldprice>5290</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/7/9/3/7931971cf82fe379b23fac5ce15be5de.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/0/6/4/064a045adf845e6ee7deed98a13c4db8.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/2/c/0/2c0999da4adee64c6d0a25c304ceba9c.jpeg</picture>
-<param name="Цвет">Белый</param>
-<param name="Цвет">Красный</param>
-<param name="Высота букета">50 см</param>
-<param name="Высота букета">60 см</param>
-<param name="Высота букета">70 см</param>
-<param name="Высота букета">80 см</param>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
 </offer>
 <offer id="51kr" available="true">
 <name>Букет из 51 красной розы</name>
@@ -441,7 +304,6 @@
 <param name="Цвет">Красный</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_51rose</collectionId>
 </offer>
 <offer id="31kremr" available="true">
 <name>Букет из 31 кремовой розы</name>
@@ -511,27 +373,6 @@
 <picture>https://m-files.cdn1.cc/lpfile/e/c/d/ecd7157476f653621d9aff5f1326433d.jpeg</picture>
 <picture>https://m-files.cdn1.cc/lpfile/e/3/c/e3cec70be79550276b85bd338e3c79bb.jpeg</picture>
 <param name="Цвет">Малиновый</param>
-<param name="Высота букета">50 см</param>
-<param name="Высота букета">60 см</param>
-<param name="Высота букета">70 см</param>
-<param name="Высота букета">80 см</param>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_31rose</collectionId>
-</offer>
-<offer id="31br" available="true">
-<name>Букет из 31 белой розы</name>
-<url>https://aqvilegia.ru/31br</url>
-<price>3990</price>
-<oldprice>4290</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/e/6/9/e69a93101e37447f2ffe64cc68e22c97.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/1/2/f/12fc56d0e138895a079d656afbebdf55.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/f/8/6/f86e15bcf78bae9ad98957fffe05a5d3.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/0/e/7/0e76cbddddc3eac552633e1806ffb20b.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/4/f/2/4f2dfa8e972c5286b738db2649774b0c.jpeg</picture>
-<param name="Цвет">Белый</param>
 <param name="Высота букета">50 см</param>
 <param name="Высота букета">60 см</param>
 <param name="Высота букета">70 см</param>
@@ -648,27 +489,6 @@
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
 <collectionId>col_21rose</collectionId>
 </offer>
-<offer id="21mr" available="true">
-<name>Букет из 21 малиновой розы</name>
-<url>https://aqvilegia.ru/21mr</url>
-<price>2990</price>
-<oldprice>3290</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/1/4/8/148f6f2e82c71460665f93d7a245d83e.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/f/3/e/f3e9438218fda8ebde4a810baafb47d8.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/b/2/4/b24b81b7dfc0c048343a03a9fe2b7790.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/7/d/0/7d0066a338fe649941c513dba89bd555.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/3/2/3/3236cfe83de38a78e3f4415f04d2d92b.jpeg</picture>
-<param name="Цвет">Малиновый</param>
-<param name="Высота букета">50 см</param>
-<param name="Высота букета">60 см</param>
-<param name="Высота букета">70 см</param>
-<param name="Высота букета">80 см</param>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_21rose</collectionId>
-</offer>
 <offer id="21nrr" available="true">
 <name>Букет из 21 нежно-розовой розы</name>
 <url>https://aqvilegia.ru/21nrr</url>
@@ -746,22 +566,6 @@
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
 <collectionId>col_11rose</collectionId>
 </offer>
-<offer id="11ri" available="true">
-<name>Букет из 11 роз Испания</name>
-<url>https://aqvilegia.ru/11ri</url>
-<price>1690</price>
-<oldprice>1990</oldprice>
-<categoryId>1</categoryId>
-<currencyId>RUB</currencyId>
-<picture>https://m-files.cdn1.cc/lpfile/c/0/e/c0e6fc6764bb22b87b363fb0768686b8.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/a/4/e/a4e753143497e671b8d0fc4126dea9ce.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/0/4/a/04a1f2d50b49157b4477f1330e36de1f.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/3/0/5/3053752e28d3273472f29632eacea00e.jpeg</picture>
-<picture>https://m-files.cdn1.cc/lpfile/1/a/e/1ae9cfde060e199edd9992d7324b3227.jpeg</picture>
-<description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
-<sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
-<collectionId>col_11rose</collectionId>
-</offer>
 <offer id="11kr" available="true">
 <name>Букет из 11 красных роз</name>
 <url>https://aqvilegia.ru/11kr</url>
@@ -786,7 +590,7 @@
 <url>https://aqvilegia.ru/11rose</url>
 <name>Букеты из 11 роз</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/f/7/1/f712d72da556edb27d7259c636a44d4b.jpeg</picture>
+<picture>https://m-files.cdn1.cc/lpfile/5/8/8/5884e3bf9b7b0c54ad5b3016724d4ace.jpeg</picture>
 </collection>
 <collection id="col_21rose">
 <url>https://aqvilegia.ru/21rose</url>
@@ -800,35 +604,11 @@
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 <picture>https://m-files.cdn1.cc/lpfile/9/d/6/9d68b82ee973e5ea57408aa8b9ace0dd.jpeg</picture>
 </collection>
-<collection id="col_51rose">
-<url>https://aqvilegia.ru/51rose</url>
-<name>Букеты из 51 розы</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/5/0/2/5023b37b0d6599f1c05c7080a2c64548.jpeg</picture>
-</collection>
 <collection id="col_101rose">
 <url>https://aqvilegia.ru/101rose</url>
 <name>Букеты из 101 розы</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 <picture>https://m-files.cdn1.cc/lpfile/f/f/6/ff6ff846092d00988ea11f02f71afa69.jpeg</picture>
-</collection>
-<collection id="11br">
-<url>https://aqvilegia.ru/11br</url>
-<name>Букет из 11 белых роз</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/f/7/1/f712d72da556edb27d7259c636a44d4b.jpeg</picture>
-</collection>
-<collection id="49mrp">
-<url>https://aqvilegia.ru/49mrp</url>
-<name>Букет из 49 роз пинк флойд премиум 80 см</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/8/e/f/8ef5ffc48f365ce1c19ffc1db3b8c572.jpeg</picture>
-</collection>
-<collection id="25mrp">
-<url>https://aqvilegia.ru/25mrp</url>
-<name>Букет из 25 роз пинк флойд премиум 80 см</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/5/3/e/53e52b1d98e53de5b91163da94da9778.jpeg</picture>
 </collection>
 <collection id="49brp">
 <url>https://aqvilegia.ru/49brp</url>
@@ -854,12 +634,6 @@
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 <picture>https://m-files.cdn1.cc/lpfile/f/f/6/ff6ff846092d00988ea11f02f71afa69.jpeg</picture>
 </collection>
-<collection id="101mixkbr">
-<url>https://aqvilegia.ru/101mixkbr</url>
-<name>Букет из 101 микс красной и белой розы</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/b/3/4/b3486d44aa5baafbb1f5bdb9398579e2.jpeg</picture>
-</collection>
 <collection id="101mr">
 <url>https://aqvilegia.ru/101mr</url>
 <name>Букет из 101 малиновой розы</name>
@@ -882,11 +656,6 @@
 <name>Букет из 101 розы Джумелия</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 <picture>https://m-files.cdn1.cc/lpfile/a/a/4/aa4a8e90aca82c933fcb5a06fbace348.jpeg</picture>
-</collection>
-<collection id="101or">
-<url>https://aqvilegia.ru/101or</url>
-<name>Букет из 101 оранжевой розы</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 </collection>
 <collection id="101srr">
 <url>https://aqvilegia.ru/101srr</url>
@@ -912,12 +681,6 @@
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 <picture>https://m-files.cdn1.cc/lpfile/5/0/2/5023b37b0d6599f1c05c7080a2c64548.jpeg</picture>
 </collection>
-<collection id="51pionr">
-<url>https://aqvilegia.ru/51pionr</url>
-<name>Букет из 51 пионовидной розы 60 см</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/0/a/e/0aeb865219785302c22803cc2b162257.jpeg</picture>
-</collection>
 <collection id="51kremr">
 <url>https://aqvilegia.ru/51kremr</url>
 <name>Букет из 51 кремовой розы</name>
@@ -940,18 +703,6 @@
 <name>Букет из 51 светло-розовой розы</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 <picture>https://m-files.cdn1.cc/lpfile/1/2/4/1240cc06be8b9531178eba3003038bae.jpeg</picture>
-</collection>
-<collection id="51rj">
-<url>https://aqvilegia.ru/51rj</url>
-<name>Букет из 51 розы Джумелия</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/9/5/6/956d8928894d7fd3cc54e38a3e0aa130.jpeg</picture>
-</collection>
-<collection id="51mixkbr">
-<url>https://aqvilegia.ru/51mixkbr</url>
-<name>Букет из 51 микс красной и белой розы</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/7/9/3/7931971cf82fe379b23fac5ce15be5de.jpeg</picture>
 </collection>
 <collection id="51kr">
 <url>https://aqvilegia.ru/51kr</url>
@@ -981,12 +732,6 @@
 <name>Букет из 31 малиновой розы</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 <picture>https://m-files.cdn1.cc/lpfile/5/a/f/5afe987dbd845249c48133ec8b0c44d6.jpeg</picture>
-</collection>
-<collection id="31br">
-<url>https://aqvilegia.ru/31br</url>
-<name>Букет из 31 белой розы</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/e/6/9/e69a93101e37447f2ffe64cc68e22c97.jpeg</picture>
 </collection>
 <collection id="31nrr">
 <url>https://aqvilegia.ru/31nrr</url>
@@ -1023,12 +768,6 @@
 <name>Букет из 21 оранжевой розы</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 </collection>
-<collection id="21mr">
-<url>https://aqvilegia.ru/21mr</url>
-<name>Букет из 21 малиновой розы</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/1/4/8/148f6f2e82c71460665f93d7a245d83e.jpeg</picture>
-</collection>
 <collection id="21nrr">
 <url>https://aqvilegia.ru/21nrr</url>
 <name>Букет из 21 нежно-розовой розы</name>
@@ -1052,12 +791,6 @@
 <name>Букет из 11 нежно-розовых роз</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
 <picture>https://m-files.cdn1.cc/lpfile/5/8/8/5884e3bf9b7b0c54ad5b3016724d4ace.jpeg</picture>
-</collection>
-<collection id="11ri">
-<url>https://aqvilegia.ru/11ri</url>
-<name>Букет из 11 роз Испания</name>
-<description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
-<picture>https://m-files.cdn1.cc/lpfile/c/0/e/c0e6fc6764bb22b87b363fb0768686b8.jpeg</picture>
 </collection>
 <collection id="11kr">
 <url>https://aqvilegia.ru/11kr</url>
