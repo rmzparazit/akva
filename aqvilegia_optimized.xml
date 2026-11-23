@@ -408,11 +408,19 @@
 <offer id="51mixkbr" available="true">
 <name>Букет из 51 микс красной и белой розы</name>
 <url>https://aqvilegia.ru/51mixkbr</url>
-<price>0</price>
+<price>4990</price>
+<oldprice>5290</oldprice>
 <categoryId>1</categoryId>
 <currencyId>RUB</currencyId>
+<picture>https://m-files.cdn1.cc/lpfile/7/9/3/7931971cf82fe379b23fac5ce15be5de.jpeg</picture>
+<picture>https://m-files.cdn1.cc/lpfile/0/6/4/064a045adf845e6ee7deed98a13c4db8.jpeg</picture>
+<picture>https://m-files.cdn1.cc/lpfile/2/c/0/2c0999da4adee64c6d0a25c304ceba9c.jpeg</picture>
 <param name="Цвет">Белый</param>
 <param name="Цвет">Красный</param>
+<param name="Высота букета">50 см</param>
+<param name="Высота букета">60 см</param>
+<param name="Высота букета">70 см</param>
+<param name="Высота букета">80 см</param>
 <description><![CDATA[Доставка свежих букетов роз в Москве]]></description>
 <sales_notes>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</sales_notes>
 <collectionId>col_51rose</collectionId>
@@ -943,6 +951,7 @@
 <url>https://aqvilegia.ru/51mixkbr</url>
 <name>Букет из 51 микс красной и белой розы</name>
 <description>Доставка 24/7. Фото перед отправкой. Бесплатные консультации флористов</description>
+<picture>https://m-files.cdn1.cc/lpfile/7/9/3/7931971cf82fe379b23fac5ce15be5de.jpeg</picture>
 </collection>
 <collection id="51kr">
 <url>https://aqvilegia.ru/51kr</url>
